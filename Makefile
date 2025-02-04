@@ -25,6 +25,6 @@ run:
 
 clean: 
 	@echo "clean project"
-	-$(RM) bin\main.exe
+	-$(RM) bin\main.exe bin\*.o
 	@echo "clean completed"
 

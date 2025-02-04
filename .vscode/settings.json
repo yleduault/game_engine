@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Yoann\\Desktop\\CODE\\training_C++\\game_engine\\bin",
+            "binaryPath": "c:\\Users\\Yoann\\Desktop\\CODE\\training_C++\\game_engine\\bin\\main",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\Yoann\\Desktop\\CODE\\training_C++\\game_engine\\bin",
+            "binaryPath": "c:\\Users\\Yoann\\Desktop\\CODE\\training_C++\\game_engine\\bin\\main.o",
+            "binaryArgs": []
+        }
+    ]
+}
