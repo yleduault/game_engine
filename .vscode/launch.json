@@ -1,13 +1,13 @@
 {
     "configurations": [
         {
-            "name": "C/C++: g++.exe build and debug active file",
+            "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "program": "${workspaceFolder}/bin/main.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${fileDirname}",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
@@ -24,7 +24,7 @@
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "C/C++: g++.exe build active file"
+            "preLaunchTask": "run makefile"
         }
     ],
     "version": "2.0.0"
